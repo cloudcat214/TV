@@ -1,6 +1,6 @@
 
 
-{"spider": "https://ghproxy.net/https://raw.githubusercontent.com/cloudcat214/TV/main/tvkj.jar",
+{"spider": "./tvkj.jar",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "logo": "https://qixing.myhkw.com/tw.jpg",
 	"lives": [{
@@ -14,7 +14,7 @@
 "sites":[
 {"key": "豆豆","name": "┃豆瓣好评┃聚合",
       "type": 3,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/cloudcat214/TV/main/lib/fty.jar",
+      "jar": "./lib/fty.jar",
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
@@ -52,7 +52,7 @@
 
 {"key":"搜狗","name":"┃搜狗官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},
 
-{"key":"360影视","name":"┃360 官源┃秒播","type":3,"ua": "okhttp/3.15","api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"360影视","name":"┃360 官源┃秒播","type":3,"ua": "okhttp/3.15","api":"csp_SP360"，"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 {"key":"4K影视","name":"┃蓝光在线┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ua": "okhttp/3.15","filterable":1,"ext":"./lib/4K影视.json"},
 
