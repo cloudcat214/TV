@@ -14,7 +14,7 @@
 "sites":[
 {"key": "豆豆","name": "┃豆瓣好评┃聚合",
       "type": 3,
-      "jar": "./lib/fty.jar",
+      "jar": "https://jsd.proxy.aks.moe/gh/cloudcat214/TV@main/lib/fty.jar",
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
