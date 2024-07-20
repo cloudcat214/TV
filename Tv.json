@@ -1,6 +1,6 @@
 
 
-{"spider": "https://jsd.proxy.aks.moe/gh/cloudcat214/TV@main/tvkj.jar",
+{"spider": "https://ghproxy.net/https://raw.githubusercontent.com/cloudcat214/TV/main/tvkj.jar",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "logo": "https://qixing.myhkw.com/tw.jpg",
 	"lives": [{
@@ -14,7 +14,7 @@
 "sites":[
 {"key": "豆豆","name": "┃豆瓣好评┃聚合",
       "type": 3,
-      "jar": "https://jsd.proxy.aks.moe/gh/cloudcat214/TV@main/lib/fty.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/cloudcat214/TV/main/lib/fty.jar",
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
